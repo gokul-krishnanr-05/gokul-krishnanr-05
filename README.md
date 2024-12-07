@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokul-krishnanr-05&label=Profile%20views&color=0e75b6&style=flat" alt="gokul-krishnanr-05" /> </p>
 
-- 🌱 I’m currently learning **Python**
 
 - 💻 I’m proficient in **React, Node.js, Express.js, JavaScript**
 
